@@ -1,0 +1,7 @@
+{
+  "name": "DopamineClean - AuDHD Home Task Tracker",
+  "description": "An AuDHD-friendly home cleaning and organization task tracker with 15-minute sensory focus timers, dopamine soundtracks, emergency Quick Tidy blitz mode, and Gemini-powered decluttering coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
